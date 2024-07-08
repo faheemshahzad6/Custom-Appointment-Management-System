@@ -18,13 +18,13 @@ The Custom Appointment Management System is designed to streamline the process o
 ## Screenshots
 Here are some visuals of the Custom Appointment Management System in action:
 
-![Admin Panel](Appointment_Scheduler1.png)
-![Patient Login](Appointment_Scheduler2.png)
-![Appointment Booking](Appointment_Scheduler3.png)
-![Stripe Integration](Appointment_Scheduler4.png)
-![Doctor Interface](Appointment_Scheduler5.png)
-![Patient Interface](Appointment_Scheduler6.png)
-![System Dashboard](Appointment_Scheduler7.png)
+![Admin Panel](images/Appointment_Scheduler1.png)
+![Patient Login](images/Appointment_Scheduler2.png)
+![Appointment Booking](images/Appointment_Scheduler3.png)
+![Stripe Integration](images/Appointment_Scheduler4.png)
+![Doctor Interface](images/Appointment_Scheduler5.png)
+![Patient Interface](images/Appointment_Scheduler6.png)
+![System Dashboard](images/Appointment_Scheduler7.png)
 
 ## Installation
 To set up the project on your local machine, follow these steps:
